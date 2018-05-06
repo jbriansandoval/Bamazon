@@ -1,0 +1,10 @@
+INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES ("Wireless Headphones", "Electronics", 29.99, 10);
+INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES ("Claws", "Movies & TV", 34.99, 15);
+INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES ("Apple Jacks", "Food", 2.99, 30);
+INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES ("Pitch Perfect 3", "Movies & TV", 26.99, 25);
+INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES ("Pudding", "Food", 2.99, 3);
+INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES ("Action Figure", "Toys", 19.99, 14);
+INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES ("Go Pro Camera", "Electronics", 89.99, 22);
+INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES ("Computer Mouse", "Electronics", 9.99, 12);
+INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES ("AXE Bodywash", "Heath & Beauty", 4.99, 230);
+INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES ("USB Type-C Cord", "Electronics", 6.99, 100);
